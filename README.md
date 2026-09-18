@@ -144,65 +144,30 @@ Took an existing RAG proof of concept to production: redesigned the service arch
 <table>
 <tr>
 <td align="center" width="33%">
+<h3>🕵️ Deep Analyst</h3>
+<strong>Cross-Source Investigation Assistant</strong><br/><br/>
+<sub>A checkpointed LangChain agent correlates evidence across comms, transactions, and documents, answering questions with cited, traceable answers.</sub><br/><br/>
+<a href="https://github.com/Moonelos/Deep-Analyst"><strong>Explore repository →</strong></a>
+</td>
+<td align="center" width="33%">
 <h3>📊 Analyst-9000</h3>
 <strong>LangGraph E-Commerce Agent</strong><br/><br/>
 <sub>Routes questions, generates and retries BigQuery SQL, synthesizes insights, and keeps conversational context.</sub><br/><br/>
-<a href="https://github.com/balalaika-tools/langraph-ecommerce-agent"><strong>Explore repository →</strong></a>
+<a href="https://github.com/Moonelos/langraph-ecommerce-agent"><strong>Explore repository →</strong></a>
 </td>
 <td align="center" width="33%">
 <h3>⚓ Tariff Calculator</h3>
 <strong>Hybrid AI + Deterministic Logic</strong><br/><br/>
 <sub>An LLM extracts vessel data; typed Python owns every auditable financial calculation.</sub><br/><br/>
-<a href="https://github.com/balalaika-tools/Tariff-Calculator"><strong>Explore repository →</strong></a>
-</td>
-<td align="center" width="33%">
-<h3>📗 Sheet-Agent</h3>
-<strong>Agentic Spreadsheet Automation</strong><br/><br/>
-<sub>A decomposer–actor–reflector loop executes spreadsheet tasks and repairs failures through feedback.</sub><br/><br/>
-<a href="https://github.com/balalaika-tools/Sheet-Agent"><strong>Explore repository →</strong></a>
+<a href="https://github.com/Moonelos/Tariff-Calculator"><strong>Explore repository →</strong></a>
 </td>
 </tr>
 <tr>
-<td align="center"><sub>TECHNICAL ASSESSMENT</sub></td>
-<td align="center"><sub>TECHNICAL ASSESSMENT</sub></td>
 <td align="center"><sub>APPLIED R&amp;D PROTOTYPE</sub></td>
+<td align="center"><sub>TECHNICAL ASSESSMENT</sub></td>
+<td align="center"><sub>TECHNICAL ASSESSMENT</sub></td>
 </tr>
 </table>
-
-<img src="./assets/section-divider.svg" width="100%" alt="" />
-
-## 🎛️ Tech Stack & Tools
-
-<div align="center">
-
-### Agent Systems
-
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge" alt="MCP" />
-<img src="https://img.shields.io/badge/FastMCP-FF6B35?style=for-the-badge" alt="FastMCP" />
-
-### Models, Retrieval & Evaluation
-
-<img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon Bedrock" />
-<img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI" />
-<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
-<img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge" alt="Langfuse" />
-<img src="https://img.shields.io/badge/RAG-Hybrid_Search-C6923B?style=for-the-badge" alt="RAG and hybrid search" />
-
-### Backend, Data & Delivery
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
-
-</div>
 
 <img src="./assets/section-divider.svg" width="100%" alt="" />
 
