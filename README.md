@@ -13,14 +13,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gagrafio@gmail.com">
-    <img src="https://img.shields.io/badge/Email-C6923B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/Thessaloniki-Greece-23B7D9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Thessaloniki, Greece" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/7%2B_years-Production_Engineering-161B22?style=flat-square" alt="7+ years production engineering" />
-  <img src="https://img.shields.io/badge/focus-Agentic_AI-F2D58A?style=flat-square&labelColor=161B22" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/focus-Agentic_AI-BE185D?style=flat-square&labelColor=161B22" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/focus-AI_Platforms-23B7D9?style=flat-square&labelColor=161B22" alt="AI platforms" />
 </p>
 

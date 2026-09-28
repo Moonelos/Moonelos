@@ -2,25 +2,25 @@
   <defs>
     <linearGradient id="line" x1="72" y1="28" x2="1128" y2="28" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0D1117" stop-opacity="0"/>
-      <stop offset=".22" stop-color="#C6923B" stop-opacity=".7"/>
-      <stop offset=".5" stop-color="#F2D58A"/>
-      <stop offset=".78" stop-color="#23B7D9" stop-opacity=".7"/>
+      <stop offset=".22" stop-color="#8B5CF6" stop-opacity=".7"/>
+      <stop offset=".5" stop-color="#EC4899"/>
+      <stop offset=".78" stop-color="#22D3EE" stop-opacity=".7"/>
       <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="node">
-      <stop stop-color="#F8E6B5"/>
-      <stop offset=".45" stop-color="#C6923B"/>
-      <stop offset="1" stop-color="#C6923B" stop-opacity="0"/>
+      <stop stop-color="#F9A8D4"/>
+      <stop offset=".45" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
     </radialGradient>
     <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
       <feGaussianBlur stdDeviation="3"/>
     </filter>
   </defs>
   <path d="M72 28H1128" stroke="url(#line)" stroke-width="1.2"/>
-  <path d="M420 28L448 14L476 28L448 42L420 28Z" stroke="#C6923B" stroke-opacity=".55"/>
-  <path d="M724 28L752 14L780 28L752 42L724 28Z" stroke="#23B7D9" stroke-opacity=".55"/>
+  <path d="M420 28L448 14L476 28L448 42L420 28Z" stroke="#8B5CF6" stroke-opacity=".55"/>
+  <path d="M724 28L752 14L780 28L752 42L724 28Z" stroke="#22D3EE" stroke-opacity=".55"/>
   <circle cx="600" cy="28" r="11" fill="url(#node)" filter="url(#glow)" opacity=".75"/>
-  <circle cx="600" cy="28" r="3.5" fill="#F8E6B5"/>
-  <circle cx="448" cy="28" r="2.5" fill="#C6923B"/>
-  <circle cx="752" cy="28" r="2.5" fill="#23B7D9"/>
+  <circle cx="600" cy="28" r="3.5" fill="#F9A8D4"/>
+  <circle cx="448" cy="28" r="2.5" fill="#8B5CF6"/>
+  <circle cx="752" cy="28" r="2.5" fill="#22D3EE"/>
 </svg>
