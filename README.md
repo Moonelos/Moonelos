@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/systems-blueprint.png" width="100%" alt="From an idea to a production-grade intelligent system" />
+<img src="./assets/systems-vibrant.png" width="100%" alt="From an idea to a production-grade intelligent system" />
 
 <h1>Georgios Agrafiotis</h1>
 
