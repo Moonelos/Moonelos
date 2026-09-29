@@ -173,7 +173,6 @@ Took an existing RAG proof of concept to production: redesigned the service arch
 
 <div align="center">
 
-### From architecture to operations — I build the whole path.
 
 <sub>Thessaloniki, Greece · Open to ambitious AI systems and difficult production problems</sub>
 
