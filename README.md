@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/7%2B_years-Production_Engineering-161B22?style=flat-square" alt="7+ years production engineering" />
+  <img src="https://img.shields.io/badge/7%2B_years-Production_Engineering-161B22?style=flat-square" alt="8+ years production engineering" />
   <img src="https://img.shields.io/badge/focus-Agentic_AI-BE185D?style=flat-square&labelColor=161B22" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/focus-AI_Platforms-23B7D9?style=flat-square&labelColor=161B22" alt="AI platforms" />
 </p>
