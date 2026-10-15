@@ -38,7 +38,7 @@ from dataclasses import dataclass
 class AIEngineer:
     name: str = "Georgios (Giorgos) Agrafiotis"
     role: str = "Senior AI Engineer · AI Solutions Architect"
-    experience: str = "7+ years building production software"
+    experience: str = "8+ years building production software"
     mission: str = "Turn ambitious AI ideas into governed, observable systems"
 
     def expertise(self) -> dict[str, tuple[str, ...]]:
